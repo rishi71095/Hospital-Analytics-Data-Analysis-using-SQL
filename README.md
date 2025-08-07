@@ -1,3 +1,5 @@
+*I recorded my full project walkthrough and uploaded it on YouTube which is great if you want to follow along with my thought process and hopefully make some suggestions.* Watch it [here](https://youtu.be/oedT6Fkibpk).
+
 # Project Description:
 
 This is a data analysis project using SQL, created by Maven Analytics, called Hospital Analytics. The goal of this project is to analyze hospital patient encounters, costs, and behavior trends to gain insights into hospital operations and patient care patterns.
